@@ -1,0 +1,24 @@
+﻿  Q1_robot.cpp
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(187): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(204): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(217): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(233): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(246): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(303): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(323): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(337): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(346): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(354): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(361): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(361): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(366): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(370): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(373): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(376): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(377): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(380): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(381): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(384): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(385): warning C4305: 'argument': truncation from 'double' to 'float'
+LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'

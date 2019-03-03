@@ -1,0 +1,24 @@
+﻿  Q2_minecraft.cpp
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(160): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(164): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(165): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(268): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(285): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(288): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(289): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(290): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(291): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(352): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(360): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  opengl.vcxproj -> C:\Users\tyeva\Desktop\graphics\Q2\\build\opengl.exe

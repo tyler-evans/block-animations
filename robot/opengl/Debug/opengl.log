@@ -1,0 +1,22 @@
+﻿  Q1_robot.cpp
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(198): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(304): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(319): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(326): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(334): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(341): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(341): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(346): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(350): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(353): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(356): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(357): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(360): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(361): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(364): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(365): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q1\src\q1_robot.cpp(405): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  opengl.vcxproj -> C:\Users\tyeva\Desktop\graphics\Q1\\build\opengl.exe

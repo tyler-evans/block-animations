@@ -1,0 +1,30 @@
+﻿  main.cpp
+c:\users\tyeva\desktop\graphics\q2\src\main.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\tyeva\desktop\graphics\q2\src\main.cpp(104): warning C4244: 'argument': conversion from 'const double' to 'unsigned int', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\main.cpp(125): warning C4244: 'argument': conversion from 'const double' to 'unsigned int', possible loss of data
+  Q2_minecraft.cpp
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(147): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(185): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(203): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(207): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(208): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(295): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(299): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(300): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(301): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(302): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyeva\desktop\graphics\q2\src\q2_minecraft.cpp(366): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'freeglutd.lib'
